@@ -1,4 +1,6 @@
 # SkillCraft_Technology_DS_Task_3
+# Problem Statement
+Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
 
 # Bank-Marketing
 <p align="justify"> Marketing refers to activities undertaken by a company to promote the buying or selling of a product or service.
